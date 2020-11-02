@@ -1,3 +1,16 @@
 # The Genevan Psalter
 
-I really like the very strange sound of the Genevan Psalter, and I also really like LilyPond, but I’ve been discouraged not to find an easy, accessible format to interact with them. There are psalters you can buy, but you usually have to buy them in sets, which can be expensive; there are a few PDFs around, but they may not be typeset to your liking (and indeed, if they’re old, they’re likely almost illegible). Hence, this project. LilyPond is very easy to read, and this will hopefully be a useful project for someone to investigate these strange melodies and harmonies and enjoy them.
+I really like the very strange sound of the Genevan Psalter, and I also
+really like LilyPond, but I’ve been discouraged not to find an easy,
+accessible format to interact with them. There are psalters you can buy,
+but you usually have to buy them in sets, which can be expensive; there
+are a few PDFs around, but they may not be typeset to your liking (and
+indeed, if they’re old, they’re likely almost illegible). Hence,
+this project. LilyPond is very easy to read, and this will hopefully be
+a useful project for someone to investigate these strange melodies and
+harmonies and enjoy them.
+
+## What Is Here?
+
+There will be (I think) 150 separate soprano, alto, tenor, and bass
+voices.
